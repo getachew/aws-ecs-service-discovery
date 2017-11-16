@@ -7,7 +7,7 @@ Simple Service Discovery for Amazon EC2 Container Service
 
 ### "Simple Service Discovery is not a Discovery Service."
 
-With no changes to your software and no additional services running in your cluster, you can run everything on Amazon ECS just like you on a single monolithic servers. Party like it's 2006, Dawg!
+With no changes to your software and no additional services running in your cluster, you can run everything on Amazon ECS just like you on a single monolithic servers. Party like it's 2006!
 
 ### Primary Objective
 
